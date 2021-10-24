@@ -26,7 +26,7 @@
 
 7. Jika sudah selesai Klik <b>Save As</b>, lalu beri nama file tersebut dengan format <b>.py</b> karena file tersebut ditulis dengan menggunakan program python. Kemudian arahkan file program yang telah dibuat tadi ke dalam suatu folder, lalu klik <b>Save</b>
 
-![img] screenshot/idle.py.jpg
+![Gambar 6](screenshot/idle.py.jpg)
 
 8. Kemudian klik <b>Run</b>, lalu <b>Run Module</b>
 
