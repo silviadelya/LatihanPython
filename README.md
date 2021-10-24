@@ -24,12 +24,20 @@
 
 ![Gambar 5](screenshot/idle-py4.jpg)
 
-7. Jika di "Run" akan seperti di bawah ini,
+7. Jika sudah selesai Klik <b>Save As</b>, lalu beri nama file tersebut dengan format <b>.py</b> karena file tersebut ditulis dengan menggunakan program python. Kemudian arahkan file program yang telah dibuat tadi ke dalam suatu folder, lalu klik <b>Save</b>
+
+![img] screenshot/idle.py.jpg
+
+8. Kemudian klik <b>Run</b>, lalu <b>Run Module</b>
+
+
+
+9. Jika sudah di "Run", maka akan seperti di bawah ini.
 
 ![Gambar 6](screenshot/idle-py3.jpg)
 
 
-<b>Penjelasan</b>
+<h3>Penjelasan</h3>
 
 Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu;<b>Input</b> dan <b>Print</b>. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
 
