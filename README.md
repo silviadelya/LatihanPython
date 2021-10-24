@@ -55,9 +55,13 @@ Contoh :
 
 <b>nama_lengkap=input("Nama Lengkap:")</b>
 
-Maka jika dijalankan (Run) akan muncul teks seperti di bawah ini, yang mana teks tersebut harus di input oleh user untuk dikembalikan lagi dalam bentuk string. 
+Maka jika dijalankan (Run) akan muncul teks seperti di bawah ini,
 
 <b>Nama Lengkap:</b> 
+
+Yang mana teks tersebut harus di input oleh user untuk dikembalikan lagi dalam bentuk string. 
+
+
 
 
 
