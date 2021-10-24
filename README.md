@@ -8,8 +8,14 @@
 2. Sesuaikan arsitektur komputer anda, kemudian download lalu install. Untuk tutorial penginstallan bisa dilihat di <a href="https://belajarpython.com/tutorial/instalasi-python">Install Python</a>
 
 
-3. Jika sudah terinstall, jalankan program Python. Tekan shortkey logo windows, ketik <b>"IDLE"</b> di search bar. Lalu klik <b>"IDLE"</b> maka akan muncul jendela seperti gambar di bawah ini.
+3. Jika sudah terinstall, jalankan program Python. Tekan shortkey logo windows, ketik <b>"IDLE"</b> di search bar. Lalu klik <b>"IDLE"</b>
 
 ![Gambar 3](screenshot/idle-py6.png)
 
+4. Tampilannya akan seperti di bawah ini.
+
 ![Gambar 2](screenshot/idle-py5.png)
+
+5. Klik <b>"New File"</b> untuk membuat file baru.
+
+![img] screenshot/gambar1.jpg
