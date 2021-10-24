@@ -30,7 +30,7 @@
 
 8. Kemudian klik <b>Run</b>, lalu <b>Run Module</b>
 
-![img] screenshot/idle-py2.jpg
+![Gambar 7](screenshot/idle-py2.jpg)
 
 9. Jika sudah di "Run", maka akan seperti di bawah ini.
 
