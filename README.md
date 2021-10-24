@@ -28,7 +28,7 @@
 
 ![Gambar](screenshot/idle-py.jpg)
 
-8. Kemudian klik <b>Run</b>, lalu <b>Run Module</b>
+8. Kemudian klik <b>"Run"</b>, lalu <b>"Run Module"</b>
 
 ![Gambar 7](screenshot/idle-py2.jpg)
 
