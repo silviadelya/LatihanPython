@@ -22,4 +22,4 @@
 
 6. Lalu buatlah sebuah program sederhana di Python, contohnya seperti program yang saya buat di bawah ini.
 
-![img] screenshot/idle-py4.jpg
+![Gambar 5](screenshot/idle-py4.jpg)
