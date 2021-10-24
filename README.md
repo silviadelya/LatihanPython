@@ -23,3 +23,29 @@
 6. Lalu buatlah sebuah program sederhana di Python, contohnya seperti program yang saya buat di bawah ini.
 
 ![Gambar 5](screenshot/idle-py4.jpg)
+
+7. Jika di "Run" akan seperti di bawah ini,
+
+![img] screenshot/idle-py3.jpg
+
+
+<b>Penjelasan</b>
+
+Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu;<b>Input</b> dan <b>Print</b>. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
+
+Contoh : 
+<b>print("Latihan Python")</b>
+
+Maka jika di jalankan (Run) akan muncul teks,
+
+<b>Latihan Python</b>
+
+Sedangkan fungsi <b>input()</b> berfungsi untuk menerima baris input dari user dan mengembalikannya dalam bentuk string.
+
+Contoh :
+
+<b>nama_lengkap=input("Nama Lengkap:")</b>
+
+Maka jika di jalankan (Run) akan muncul teks seperti di bawah ini, yang mana teks tersebut harus di input oleh user untuk dikembalikan lagi dalam bentuk string.
+
+<b>Nama Lengkap:</b>
