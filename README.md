@@ -16,6 +16,6 @@
 
 ![Gambar 2](screenshot/idle-py5.png)
 
-5. Klik <b>"New File"</b> untuk membuat file baru.
+5. Klik <b>"File"</b>, lalu <b>"New File"</b> untuk membuat file baru.
 
-![img] screenshot/gambar1.jpg
+![Gambar 4](screenshot/gambar1.jpg)
