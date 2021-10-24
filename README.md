@@ -39,9 +39,10 @@
 
 <h3>Penjelasan</h3>
 
-Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu;<b>Input</b> dan <b>Print</b>. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
+Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu; <b>Input</b> dan <b>Print</b>. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
 
 Contoh : 
+
 <b>print("Latihan Python")</b>
 
 Maka jika di jalankan (Run) akan muncul teks,
