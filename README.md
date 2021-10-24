@@ -24,7 +24,7 @@
 
 ![Gambar 5](screenshot/idle-py4.jpg)
 
-7. Jika sudah selesai Klik <b>Save As</b>, lalu beri nama file tersebut dengan format <b>.py</b> karena file tersebut ditulis dengan menggunakan program python. Kemudian arahkan file program yang telah dibuat tadi ke dalam suatu folder, lalu klik <b>Save</b>
+7. Jika sudah selesai Klik <b>"Save As"</b>, lalu beri nama file tersebut dengan format <b>.py</b> karena file tersebut ditulis dengan menggunakan program python. Kemudian arahkan file program yang telah dibuat tadi ke dalam suatu folder, lalu klik <b>"Save"</b>
 
 ![Gambar](screenshot/idle-py.jpg)
 
