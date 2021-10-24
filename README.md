@@ -19,3 +19,7 @@
 5. Klik <b>"File"</b>, lalu <b>"New File"</b> untuk membuat file baru.
 
 ![Gambar 4](screenshot/gambar1.jpg)
+
+6. Lalu buatlah sebuah program sederhana di Python, contohnya seperti program yang saya buat di bawah ini.
+
+![img] screenshot/idle-py4.jpg
