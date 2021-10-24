@@ -39,27 +39,28 @@
 
 <h3>- Penjelasan -</h3>
 
-Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu; <b>Input</b> dan <b>Print</b>. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
+Dalam contoh program yang saya tampilkan di atas, ada beberapa perintah dasar Python yaitu; <b>Input</b> dan <b>Print</b>. 
+1. Fungsi <b>print()</b> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. 
 
-Contoh : 
+    Contoh : 
 
-<b>print("Latihan Python")</b>
+    <b>print("Latihan Python")</b>
 
-Maka jika dijalankan (Run) akan muncul teks,
+    Maka jika dijalankan (Run) akan muncul teks,
 
-<b>Latihan Python</b>
+    <b>Latihan Python</b>
 
-Sedangkan fungsi <b>input()</b> berfungsi untuk menerima baris input dari user dan mengembalikannya dalam bentuk string (teks atau kumpulan karakter). 
+2. Sedangkan fungsi <b>input()</b> berfungsi untuk menerima baris input dari user dan mengembalikannya dalam bentuk string (teks atau kumpulan karakter). 
 
-Contoh :
+    Contoh :
 
-<b>nama_lengkap=input("Nama Lengkap:")</b>
+    <b>nama_lengkap=input("Nama Lengkap:")</b>
 
-Maka jika dijalankan (Run) akan muncul teks seperti di bawah ini,
+    Maka jika dijalankan (Run) akan muncul teks seperti di bawah ini,
 
-<b>Nama Lengkap:</b> 
+    <b>Nama Lengkap:</b> 
 
-Yang mana teks tersebut harus di input oleh user untuk dikembalikan lagi dalam bentuk string. 
+    Yang mana teks tersebut harus di input oleh user untuk dikembalikan lagi dalam bentuk string. 
 
 
 
