@@ -26,7 +26,7 @@
 
 7. Jika di "Run" akan seperti di bawah ini,
 
-![img] screenshot/idle-py3.jpg
+![Gambar 6](screenshot/idle-py3.jpg)
 
 
 <b>Penjelasan</b>
